@@ -38,7 +38,7 @@ export default function About() {
               target="_blank" 
               rel="noopener noreferrer"
             >
-              masesegavin.netlify.app
+https://masese-ke.netlify.app/
             </a>
           </p>
         </motion.div>

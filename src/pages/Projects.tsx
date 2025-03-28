@@ -6,25 +6,25 @@ const projects = [
     id: 1,
     title: 'Memorify',
     description: 'I collaborated with a friend to create a much more complex notes app where you coul share your memories and add media.',
-    image: 'src/assets/memorify.png',
+    image: '/assets/memorify.png',
   },
   {
     id: 2,
     title: 'Finance Website',
     description: 'Developed a website for Bullione Africa which is an investment company. This included frontend and backend',
-    image: 'src/assets/Bullione.png',
+    image: '/assets/Bullione.png',
   },
   {
     id: 3,
     title: 'Smoke Monitoring System',
     description: 'An Arduino-based system that detects smoke levels and triggers alerts for safety.',
-    image: 'src/assets/smoke-detector-arduino-circuit.jpg',
+    image: '/assets/smoke-detector-arduino-circuit.jpg',
   },
   {
     id: 4,
     title: 'University Watch',
     description: 'As my final year project, I created a social media app for universities for faster relaying of information',
-    image: 'src/assets/university_watch.png',
+    image: '/assets/university_watch.png',
   },
 ];
 

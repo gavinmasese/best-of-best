@@ -75,7 +75,7 @@ export default function Home() {
                   <ArrowRight size={20} />
                 </Link>
                 <a
-                  href="src\assets\Latest Gavin Masese.pdf"
+                  href="assets\Latest Gavin Masese.pdf"
                   download
                   className="inline-flex items-center gap-2 px-6 py-3 border-2 border-primary-600 text-primary-600 dark:border-primary-400 dark:text-primary-400 rounded-lg hover:bg-primary-50 dark:hover:bg-primary-900/20 transition-colors"
                 >
@@ -92,7 +92,7 @@ export default function Home() {
               transition={{ delay: 1 }}
             >
               <img
-                src="src\assets\mimi.png"
+                src="assets\mimi.png"
                 alt="Profile"
                 className="w-full h-auto rounded-2xl shadow-2xl"
               />

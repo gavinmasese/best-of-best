@@ -21,7 +21,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between">
           <NavLink to="/" className="flex items-center">
             <img 
-              src="src\assets\logoj.svg" 
+              src="\assets\logoj.svg" 
               alt="Logo" 
               className="h-8 w-auto" 
             />
